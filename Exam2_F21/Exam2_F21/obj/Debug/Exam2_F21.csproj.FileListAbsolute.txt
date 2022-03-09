@@ -1,0 +1,7 @@
+D:\Users\larry\Documents\CIS 199\Exam2_F21\Exam2_F21\bin\Debug\Exam2_F21.exe.config
+D:\Users\larry\Documents\CIS 199\Exam2_F21\Exam2_F21\bin\Debug\Exam2_F21.exe
+D:\Users\larry\Documents\CIS 199\Exam2_F21\Exam2_F21\bin\Debug\Exam2_F21.pdb
+D:\Users\larry\Documents\CIS 199\Exam2_F21\Exam2_F21\obj\Debug\Exam2_F21.csproj.AssemblyReference.cache
+D:\Users\larry\Documents\CIS 199\Exam2_F21\Exam2_F21\obj\Debug\Exam2_F21.csproj.CoreCompileInputs.cache
+D:\Users\larry\Documents\CIS 199\Exam2_F21\Exam2_F21\obj\Debug\Exam2_F21.exe
+D:\Users\larry\Documents\CIS 199\Exam2_F21\Exam2_F21\obj\Debug\Exam2_F21.pdb
