@@ -1,0 +1,7 @@
+D:\Users\larry\Documents\CIS 199\Lab 6\Lab 6\bin\Debug\Lab 6.exe.config
+D:\Users\larry\Documents\CIS 199\Lab 6\Lab 6\bin\Debug\Lab 6.exe
+D:\Users\larry\Documents\CIS 199\Lab 6\Lab 6\bin\Debug\Lab 6.pdb
+D:\Users\larry\Documents\CIS 199\Lab 6\Lab 6\obj\Debug\Lab 6.csproj.AssemblyReference.cache
+D:\Users\larry\Documents\CIS 199\Lab 6\Lab 6\obj\Debug\Lab 6.csproj.CoreCompileInputs.cache
+D:\Users\larry\Documents\CIS 199\Lab 6\Lab 6\obj\Debug\Lab 6.exe
+D:\Users\larry\Documents\CIS 199\Lab 6\Lab 6\obj\Debug\Lab 6.pdb
