@@ -1,0 +1,7 @@
+D:\Users\larry\Documents\CIS 199\Larry Nguyen Lab 1\Larry Nguyen Lab 1\bin\Debug\Larry Nguyen Lab 1.exe.config
+D:\Users\larry\Documents\CIS 199\Larry Nguyen Lab 1\Larry Nguyen Lab 1\bin\Debug\Larry Nguyen Lab 1.exe
+D:\Users\larry\Documents\CIS 199\Larry Nguyen Lab 1\Larry Nguyen Lab 1\bin\Debug\Larry Nguyen Lab 1.pdb
+D:\Users\larry\Documents\CIS 199\Larry Nguyen Lab 1\Larry Nguyen Lab 1\obj\Debug\Larry Nguyen Lab 1.csproj.AssemblyReference.cache
+D:\Users\larry\Documents\CIS 199\Larry Nguyen Lab 1\Larry Nguyen Lab 1\obj\Debug\Larry Nguyen Lab 1.csproj.CoreCompileInputs.cache
+D:\Users\larry\Documents\CIS 199\Larry Nguyen Lab 1\Larry Nguyen Lab 1\obj\Debug\Larry Nguyen Lab 1.exe
+D:\Users\larry\Documents\CIS 199\Larry Nguyen Lab 1\Larry Nguyen Lab 1\obj\Debug\Larry Nguyen Lab 1.pdb
