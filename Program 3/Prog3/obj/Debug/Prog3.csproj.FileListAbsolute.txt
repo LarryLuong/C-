@@ -1,0 +1,10 @@
+D:\Users\larry\Documents\CIS 199\Prog3\Prog3\bin\Debug\Prog3.exe.config
+D:\Users\larry\Documents\CIS 199\Prog3\Prog3\bin\Debug\Prog3.exe
+D:\Users\larry\Documents\CIS 199\Prog3\Prog3\bin\Debug\Prog3.pdb
+D:\Users\larry\Documents\CIS 199\Prog3\Prog3\obj\Debug\Prog3.csproj.AssemblyReference.cache
+D:\Users\larry\Documents\CIS 199\Prog3\Prog3\obj\Debug\Prog3.Form1.resources
+D:\Users\larry\Documents\CIS 199\Prog3\Prog3\obj\Debug\Prog3.Properties.Resources.resources
+D:\Users\larry\Documents\CIS 199\Prog3\Prog3\obj\Debug\Prog3.csproj.GenerateResource.cache
+D:\Users\larry\Documents\CIS 199\Prog3\Prog3\obj\Debug\Prog3.csproj.CoreCompileInputs.cache
+D:\Users\larry\Documents\CIS 199\Prog3\Prog3\obj\Debug\Prog3.exe
+D:\Users\larry\Documents\CIS 199\Prog3\Prog3\obj\Debug\Prog3.pdb
